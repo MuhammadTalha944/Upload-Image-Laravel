@@ -9,7 +9,14 @@
 
 # Simple Crud Application 
 
-This is a simple Laravel(5.4) application with crud method and also the image uploading function.:
+This is a simple Laravel(5.4) application with crud method and also the image uploading function.
+To run the project follow the following steps:
+1. run php artisan migrate command on  project root directory
+2.run php artisan serve 
+3.enter the address  in browser localhost:8000
+
+This project was developed under the supervision of GegaNodes http://www.geganodes.com/  by Fresh Interns
+talhaishtiaq944@gmail.com & umarsalahudin7@gmail.com
 
 
 

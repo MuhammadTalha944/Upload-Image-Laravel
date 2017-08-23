@@ -8,8 +8,8 @@ To run the project follow the following steps:<br>
 2.run php artisan serve <br>
 3.enter the address  in browser localhost:8000<br>
 
-This project was developed under the supervision of GegaNodes http://www.geganodes.com/  by Fresh Interns
-talhaishtiaq944@gmail.com & umarsalahudin7@gmail.com
+This project was developed under the supervised by Badar Ali baddarali07@hotmail.com at GegaNodes http://www.geganodes.com/  by Fresh Interns
+Muhammad Talha : talhaishtiaq944@gmail.com &  Umer salahuddin:umarsalahudin7@gmail.com
 
 
 

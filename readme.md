@@ -1,5 +1,6 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
-# Simple Crud Application Image Uploading
+
+<h1><b> Simple Crud Application Image Uploading</b></h1>
 
 This is a simple Laravel(5.4) application with crud method and also the image uploading function.<br>
 To run the project follow the following steps:<br>
